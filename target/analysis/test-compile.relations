@@ -1,0 +1,25 @@
+products:
+   src/test/scala/demo/DemoTest.scala -> target/test-classes/demo/DemoTest.class
+   src/test/scala/demo/WaterMarkTest.scala -> target/test-classes/demo/WaterMarkTest.class
+binary dependencies:
+   src/test/scala/demo/DemoTest.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/jre/lib/rt.jar
+   src/test/scala/demo/DemoTest.scala -> /Users/shadrackantwi/.m2/repository/com/typesafe/scala-logging/scala-logging_2.11/3.5.0/scala-logging_2.11-3.5.0.jar
+   src/test/scala/demo/DemoTest.scala -> /Users/shadrackantwi/.m2/repository/junit/junit/4.12/junit-4.12.jar
+   src/test/scala/demo/DemoTest.scala -> /Users/shadrackantwi/.m2/repository/org/apache/spark/spark-sql_2.11/2.0.1/spark-sql_2.11-2.0.1.jar
+   src/test/scala/demo/DemoTest.scala -> /Users/shadrackantwi/.m2/repository/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar
+   src/test/scala/demo/DemoTest.scala -> /Users/shadrackantwi/.m2/repository/org/scalactic/scalactic_2.11/2.2.6/scalactic_2.11-2.2.6.jar
+   src/test/scala/demo/DemoTest.scala -> /Users/shadrackantwi/.m2/repository/org/scalatest/scalatest_2.11/2.2.6/scalatest_2.11-2.2.6.jar
+   src/test/scala/demo/WaterMarkTest.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/jre/lib/rt.jar
+   src/test/scala/demo/WaterMarkTest.scala -> /Users/shadrackantwi/.m2/repository/com/typesafe/scala-logging/scala-logging_2.11/3.5.0/scala-logging_2.11-3.5.0.jar
+   src/test/scala/demo/WaterMarkTest.scala -> /Users/shadrackantwi/.m2/repository/junit/junit/4.12/junit-4.12.jar
+   src/test/scala/demo/WaterMarkTest.scala -> /Users/shadrackantwi/.m2/repository/org/apache/spark/spark-sql_2.11/2.0.1/spark-sql_2.11-2.0.1.jar
+   src/test/scala/demo/WaterMarkTest.scala -> /Users/shadrackantwi/.m2/repository/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar
+   src/test/scala/demo/WaterMarkTest.scala -> /Users/shadrackantwi/.m2/repository/org/scalactic/scalactic_2.11/2.2.6/scalactic_2.11-2.2.6.jar
+   src/test/scala/demo/WaterMarkTest.scala -> /Users/shadrackantwi/.m2/repository/org/scalatest/scalatest_2.11/2.2.6/scalatest_2.11-2.2.6.jar
+source dependencies:
+external dependencies:
+   src/test/scala/demo/DemoTest.scala -> demo.EstimateWatermark$
+   src/test/scala/demo/WaterMarkTest.scala -> demo.EstimateWatermark$
+class names:
+   src/test/scala/demo/DemoTest.scala -> demo.DemoTest
+   src/test/scala/demo/WaterMarkTest.scala -> demo.WaterMarkTest

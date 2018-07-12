@@ -1,0 +1,27 @@
+products:
+   src/main/scala/demo/Demo.scala -> target/classes/demo/Demo$.class
+   src/main/scala/demo/Demo.scala -> target/classes/demo/Demo.class
+   src/main/scala/demo/EstimateWatermark.scala -> target/classes/demo/EstimateWatermark$.class
+   src/main/scala/demo/EstimateWatermark.scala -> target/classes/demo/EstimateWatermark.class
+   src/main/scala/demo/StreamOps.scala -> target/classes/demo/StreamOps$.class
+   src/main/scala/demo/StreamOps.scala -> target/classes/demo/StreamOps.class
+binary dependencies:
+   src/main/scala/demo/Demo.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/jre/lib/rt.jar
+   src/main/scala/demo/Demo.scala -> /Users/shadrackantwi/.m2/repository/com/typesafe/scala-logging/scala-logging_2.11/3.5.0/scala-logging_2.11-3.5.0.jar
+   src/main/scala/demo/Demo.scala -> /Users/shadrackantwi/.m2/repository/org/apache/spark/spark-sql_2.11/2.0.1/spark-sql_2.11-2.0.1.jar
+   src/main/scala/demo/Demo.scala -> /Users/shadrackantwi/.m2/repository/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar
+   src/main/scala/demo/EstimateWatermark.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/jre/lib/rt.jar
+   src/main/scala/demo/EstimateWatermark.scala -> /Users/shadrackantwi/.m2/repository/com/typesafe/scala-logging/scala-logging_2.11/3.5.0/scala-logging_2.11-3.5.0.jar
+   src/main/scala/demo/EstimateWatermark.scala -> /Users/shadrackantwi/.m2/repository/org/apache/spark/spark-sql_2.11/2.0.1/spark-sql_2.11-2.0.1.jar
+   src/main/scala/demo/EstimateWatermark.scala -> /Users/shadrackantwi/.m2/repository/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar
+   src/main/scala/demo/EstimateWatermark.scala -> /Users/shadrackantwi/.m2/repository/org/slf4j/slf4j-api/1.7.22/slf4j-api-1.7.22.jar
+   src/main/scala/demo/StreamOps.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/jre/lib/rt.jar
+source dependencies:
+external dependencies:
+class names:
+   src/main/scala/demo/Demo.scala -> demo.Demo
+   src/main/scala/demo/Demo.scala -> demo.Demo$
+   src/main/scala/demo/EstimateWatermark.scala -> demo.EstimateWatermark
+   src/main/scala/demo/EstimateWatermark.scala -> demo.EstimateWatermark$
+   src/main/scala/demo/StreamOps.scala -> demo.StreamOps
+   src/main/scala/demo/StreamOps.scala -> demo.StreamOps$
