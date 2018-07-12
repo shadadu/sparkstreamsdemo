@@ -21,7 +21,6 @@
         <project.reporting.outputEncoding>${project.build.sourceEncoding}</project.reporting.outputEncoding>
         <tagsToExclude>IntegrationTest</tagsToExclude>
         <spark.version>2.1.1</spark.version>
-        <!--<graphstack.version>1.1.26</graphstack.version>-->
         <commons-math3.version>3.6.1</commons-math3.version>
         <figaro.version>4.0.0.0</figaro.version>
         <scalatest.version>2.2.6</scalatest.version>
