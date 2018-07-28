@@ -36,7 +36,6 @@ object SalesRankDecrease {
       .toDF()
 
     val salesChangeDf = lagDF.withColumn("change_in_sales", when(col("lag_time").isNull, lit(0))
-      .otherwise(col("3_hourly_sales_by_department")) - when(col("lag_time").isNull, lit(0))
       .otherwise(col("3_hourly_sales_by_department")) - col("lag_time") )
 
 

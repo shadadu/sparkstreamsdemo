@@ -15,7 +15,9 @@ class SalesRankDecreaseTest extends FunSuite{
     .config("spark.ui.port", 4340)
     .getOrCreate()
 
-  val directory = "/Users/shadrackantwi/Workspace/parsejson/testdata/"
+  val dirPath: String = System.getProperty("user.dir")
+
+  val directory: String = dirPath + "/testdata/"
 
   val startTime: Long = System.currentTimeMillis()
 
